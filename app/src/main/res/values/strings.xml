@@ -1,0 +1,321 @@
+<resources>
+    <string name="app_name">Daily Tweets</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+    <string name="image_tweets">Image Tweets</string>
+    <string name="text_tweets">Text Tweets</string>
+    <string name="video_tweets">Video Tweets(Beta)</string>
+
+    <string name="open_twitter">Open Twitter</string>
+    <string name="rate_app">Rate App</string>
+    <string name="more_apps">More Apps</string>
+    <string name="about">About</string>
+    <string name="developers">Developers</string>
+
+    <string name="categoryAmazing">Amazing Tweets</string>
+    <string name="amazingone">Those who have courage and faith shall never perish in misery.</string>
+    <string name="amazingtwo">I\'m the living embodiment of \'it could be worse\'.</string>
+    <string name="amazingthree">Sometimes I get so caught up in my own problems that I forget how amazing the world is.</string>
+    <string name="amazingfour">What you see is kinda what you get with me. I\'m a very real person, or I hope to be, anyway. I don\'t have nothing to hide.</string>
+    <string name="amazingfive">The best thing about being who you really are is that you simply cannot fail! Be you, be awesome and live awesomely.</string>
+    <string name="amazingsix">Awesome people do awesome things awesomely. So step up connect, share the love, stay positive and be Amazingly Awesome.</string>
+    <string name="amazingseven">If you want to be Awesome, you have to kick all the negative and boring people out of your life and arm yourself with awesomeness imbued with positivity, creativity and little bit of craziness.</string>
+    <string name="amazingeight">Be strong when you are weak. Be brave when you are scared. Be humble when you are victorious. Be badass everyday.</string>
+    <string name="amazingnine">It’s the imperfections that make things beautiful.</string>
+    <string name="amazingten">It doesn’t matter if you’ve failed or if you’ve been beaten. All that matters is that you learn something, get back up, and try again. Because winning is a good feeling, but winning when nobody else thought you could is an awesome feeling.</string>
+
+    <string name="categoryCreative">Creativity Tweets</string>
+    <string name="creativeone">The desire to create is one of the deepest yearnings of the human soul.</string>
+    <string name="creativetwo">Creativity doesn\'t wait for that perfect moment. It fashions its own perfect moments out of ordinary ones.</string>
+    <string name="creativethree">You can\'t use up creativity. The more you use the more you have.</string>
+    <string name="creativefour">To practice any art, no matter how well or badly, is a way to make your soul grow. So do it.</string>
+    <string name="creativefive">Creativity is inventing, experimenting, growing, taking risks, breaking rules, making mistakes, and having fun.</string>
+    <string name="creativesix">Creativity involves breaking out of expected patterns in order to look at things in a different way.</string>
+    <string name="creativeseven">We have to continually be jumping off cliffs and developing our wings on the way down.</string>
+    <string name="creativeeight">Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</string>
+    <string name="creativenine">Imagination is everything. It is the preview of life\'s coming attractions.</string>
+    <string name="creativeten">Around here, however, we don\'t look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we\'re curious…and curiosity keeps leading us down new paths.</string>
+
+
+    <string name="categoryCrush">Crush Tweets</string>
+    <string name="crushone">You see in all my life I’ve never found what I couldn’t resist, what I couldn’t turn down. I could walk away from anyone I ever knew, but I can’t walk away from you.</string>
+    <string name="crushtwo">You don’t have to be a genius to figure what’s between us.</string>
+    <string name="crushthree">The spaces between your fingers are meant to be filled with mine.</string>
+    <string name="crushfour">I’ll be yours forever, just tell me when to start.</string>
+    <string name="crushfive">It’s amazing how crazy I feel when my phone vibrates and I’m, begging it to be you.</string>
+    <string name="crushsix">Even after most said it was over between you and me, I still to this day, never shut up about you. You’ve got me wrapped around your finger.</string>
+    <string name="crushseven">If I got a penny for every time I thought and dreamed about you, I would be rich.</string>
+    <string name="crusheight">You know that feeling when your head says no, but your heart says yes? It’s wrong, but it feels so right? I wish we could be together.</string>
+    <string name="crushnine">Ever since I met you, it hasn’t been the same. All you’ve got me doing is drawing hearts around your name.</string>
+    <string name="crushten">Some things have to remain a secret, but you and I don’t.</string>
+
+    <string name="categoryEmotional">Emotional Tweets</string>
+    <string name="emotionalone">Loyalty is when love is stronger than passion.</string>
+    <string name="emotionaltwo">One word frees us of all the weight and pain in life. That word is love!</string>
+    <string name="emotionalthree">To love deeply in one direction makes us more loving in all others.</string>
+    <string name="emotionalfour">When we are in love we seem to ourselves quite different from what we were before.</string>
+    <string name="emotionalfive">Love takes off masks that we fear we cannot live without and know we cannot live within..</string>
+    <string name="emotionalsix">Above all, be the heroine of your life. Not the victim.</string>
+    <string name="emotionalseven">You never really know the true quality of someone’s character until the road gets rocky.</string>
+    <string name="emotionaleight">We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.</string>
+    <string name="emotionalnine">Love deeply and passionately. You might get hurt, but it’s the only way to love life completely.</string>
+    <string name="emotionalten">Sometimes no matter how much you try to speak your heart out, words are not just enough to describe how you truly feel.</string>
+
+    <string name="categoryFamousLyrics">Famous Lyrics Tweets</string>
+    <string name="lyricsone">“Emancipate yourselves from mental slavery.
+None but ourselves can free our minds.”
+― Bob Marley.</string>
+    <string name="lyricstwo">“The story of life is quicker than the wink of an eye, the story of love is hello and goodbye…until we meet again”
+― Jimi Hendrix.</string>
+    <string name="lyricsthree">“Would you destroy Something perfect in order to make it beautiful?”
+― Gerard Way.</string>
+    <string name="lyricsfour">“Get up, stand up, Stand up for your rights. Get up, stand up, Don\'t give up the fight.”
+― Bob Marley.</string>
+    <string name="lyricsfive">“We all shine on…like the moon and the stars and the sun…we all shine on…come on and on and on…”
+― john lennon.</string>
+    <string name="lyricssix">“I get by with a little help from my friends.”
+― John Lennon.</string>
+    <string name="lyricsseven">
+“When pain brings you down, don\'t be silly, don\'t close your eyes and cry, you just might be in the best position to see the sun shine.”
+― Alanis Morissette.</string>
+    <string name="lyricseight">
+“Excuse me while I kiss the sky.”
+― Jimi Hendrix.</string>
+    <string name="lyricsnine">“Remember to let her into your heart.”
+― John Lennon.</string>
+    <string name="lyricsten">“I\'d trade all my tomorrows for one single yesterday.”
+― Kris Kristofferson.</string>
+
+    <string name="categoryFamousQuotes">Famous Quotes Tweets</string>
+    <string name="famousquotesone">"The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela</string>
+    <string name="famousquotestwo">"The way to get started is to quit talking and begin doing." -Walt Disney</string>
+    <string name="famousquotesthree">"Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking." -Steve Jobs</string>
+    <string name="famousquotesfour">"If life were predictable it would cease to be life, and be without flavor." -Eleanor Roosevelt</string>
+    <string name="famousquotesfive">"If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success." -James Cameron</string>
+    <string name="famousquotessix">"Spread love everywhere you go. Let no one ever come to you without leaving happier." -Mother Teresa</string>
+    <string name="famousquotesseven">"Don't judge each day by the harvest you reap but by the seeds that you plant." -Robert Louis Stevenson</string>
+    <string name="famousquoteseight">"When you reach the end of your rope, tie a knot in it and hang on." -Franklin D. Roosevelt</string>
+    <string name="famousquotesnine">"Tell me and I forget. Teach me and I remember. Involve me and I learn." -Benjamin Franklin</string>
+    <string name="famousquotesten">"The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart." -Helen Keller</string>
+
+    <string name="categoryFriendship">Friendship Tweets</string>
+    <string name="friendshipone">“Friendship is the hardest thing in the world to explain. It’s not something you learn in school. But if you haven’t learned the meaning of friendship, you really haven’t learned anything.</string>
+    <string name="friendshiptwo">Don’t make friends who are comfortable to be with. Make friends who will force you to lever yourself up.</string>
+    <string name="friendshipthree">The most beautiful discovery true friends make is that they can grow separately without growing apart.</string>
+    <string name="friendshipfour">Each friend represents a world in us, a world possibly not born until they arrive, and it is only by this meeting that a new world is born</string>
+    <string name="friendshipfive">Life is partly what we make it, and partly what it is made by the friends we choose.</string>
+    <string name="friendshipsix">Find a group of people who challenge and inspire you; spend a lot of time with them, and it will change your life.</string>
+    <string name="friendshipseven">Few things have such a huge impact on happiness and the enjoyment, depth and plain fun of life as the friendships we have.</string>
+    <string name="friendshipeiiht">A friend is one who overlooks your broken fence and admires the flowers in your garden</string>
+    <string name="friendshipnine">You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.</string>
+    <string name="friendshipten">Time doesn’t take away from friendship, nor does separation.</string>
+
+    <string name="categoryFunny">Funny Tweets</string>
+    <string name="funnyone">I’m sick of following my dreams, man. I’m just going to ask where they’re going and hook up with ’em later.</string>
+    <string name="funnytwo">My mother always used to say: The older you get, the better you get, unless you’re a banana.</string>
+    <string name="funnythree">Halloween is the beginning of the holiday shopping season. That’s for women. The beginning of the holiday shopping season for men is Christmas Eve.</string>
+    <string name="funnyfour">Before you criticize someone, you should walk a mile in their shoes. That way when you criticize them, you are a mile away from them and you have their shoes.</string>
+    <string name="funnyfive">Before you marry a person, you should first make them use a computer with slow Internet to see who they really are.</string>
+    <string name="funnysix">When your mother asks, ‘Do you want a piece of advice?’ it is a mere formality. It doesn’t matter if you answer yes or no. You’re going to get it anyway.</string>
+    <string name="funnyseven">I want my children to have all the things I couldn’t afford. Then I want to move in with them.</string>
+    <string name="funnyeight">Insomnia sharpens your math skills because you spend all night calculating how much sleep you’ll get if you’re able to ‘fall asleep right now.’</string>
+    <string name="funnynine">Never follow anyone else’s path. Unless you’re in the woods and you’re lost and you see a path. Then by all means follow that path.</string>
+    <string name="funnyten">I’m not superstitious, but I am a little stitious.</string>
+
+
+    <string name="categoryInspirational">Inspirational Tweets</string>
+    <string name="inspirationalone">No one can make you feel inferior without your consent.</string>
+    <string name="inspirationaltwo">Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that</string>
+    <string name="inspirationalthree">Be the change that you wish to see in the world.</string>
+    <string name="inspirationalfour">There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.</string>
+    <string name="inspirationalfive">Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten</string>
+    <string name="inspirationalsix">I have not failed. I\'ve just found 10,000 ways that won\'t work.</string>
+    <string name="inspirationalseven">Everything you can imagine is real.</string>
+    <string name="inspirationaleight">Life isn\'t about finding yourself. Life is about creating yourself.</string>
+    <string name="inspirationalnine">When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.</string>
+    <string name="inspirationalten">Success is not final, failure is not fatal: it is the courage to continue that counts</string>
+
+
+    <string name="categoryJoke">Joke Tweets</string>
+    <string name="jokeone">What’s the best thing about Switzerland?
+I don’t know, but the flag is a big plus.</string>
+    <string name="joketwo">I invented a new word: Plagiarism!</string>
+    <string name="jokethree">Did you hear about the mathematician who’s afraid of negative numbers?
+He’ll stop at nothing to avoid them.</string>
+    <string name="jokefour">Why do we tell actors to “break a leg?”
+Because every play has a cast.</string>
+    <string name="jokefive">Yesterday I saw a guy spill all his Scrabble letters on the road.
+I asked him, “What’s the word on the street?”</string>
+    <string name="jokesix">How many times can you subtract 10 from 100?
+Once. The next time you would be subtracting 10 from 90.</string>
+    <string name="jokeseven">Hear about the new restaurant called Karma?
+There’s no menu: You get what you deserve.</string>
+    <string name="jokeeight">A woman in labour suddenly shouted, “Shouldn’t! Wouldn’t! Couldn’t! Didn’t! Can’t!”
+“Don’t worry,” said the doctor. “Those are just contractions.”</string>
+    <string name="jokenine">A bear walks into a bar and says, “Give me a whiskey… and a cola.”
+“Why the big pause?” asks the bartender. The bear shrugged. “I’m not sure. I was born with them.”</string>
+    <string name="joketen">Did you hear about the actor who fell through the floorboards?
+He was just going through a stage.</string>
+
+    <string name="categoryHappy">Happy Tweets</string>
+    <string name="happyone">They say a person needs just three things to be truly happy in this world: Someone to love, something to do, and something to hope for.</string>
+    <string name="happytwo">No medicine cures what happiness cannot</string>
+    <string name="happythree">Let us be grateful to the people who make us happy; they are the charming gardeners who make our souls blossom.</string>
+    <string name="happyfour">Happiness is a warm puppy.</string>
+    <string name="happyfive">There\'s nothing like deep breaths after laughing that hard. Nothing in the world like a sore stomach for the right reasons.</string>
+    <string name="happysix">You cannot protect yourself from sadness without protecting yourself from happiness.</string>
+    <string name="happyseven">It\'s so hard to forget pain, but it\'s even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.</string>
+    <string name="happyeight">If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.</string>
+    <string name="happynine">It isn\'t what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.</string>
+    <string name="happyten">Happiness is a state of mind. It\'s just according to the way you look at things.</string>
+
+    <string name="categoryHoliday">Holiday Tweets</string>
+    <string name="holidayone">Not what we say about our blessing, but how we use them, is the true measure of our thanksgiving.</string>
+    <string name="holidaytwo">Sharing the holiday with other people, and feeling that you’re giving of yourself, gets you past all the commercialism.</string>
+    <string name="holidaythree">Take a break and chill because this is the time of the year to rejoice, celebrate and also feel rewarded.</string>
+    <string name="holidayfour">Winter is the time for comfort, for good food and warmth, for the touch of a friendly hand and for a talk beside the fire: it is the time for home.</string>
+    <string name="holidayfive">May you enjoy all the gifts you received this holiday. Here’s wishing you a blissful holiday ahead!</string>
+    <string name="holidaysix">Winter, a lingering season, is a time to gather golden moments, embark upon a sentimental journey, and enjoy every idle hour.</string>
+    <string name="holidayseven">Happy holidays! Here’s wishing you all the joys of the season and the happiness all throughout the upcoming year.</string>
+    <string name="holidayeight">What is Christmas? It is tenderness for the past, courage for the present, hope for the future.</string>
+    <string name="holidaynine">One of the most glorious messes in the world is the mess created in the living room on Christmas Day. Don\'t clean it up too quickly.</string>
+    <string name="holidayten">What happens under the mistletoe, stays under the mistletoe.</string>
+
+
+    <string name="categoryLifeQuotes">Life Quotes Tweets</string>
+    <string name="lifequotesone">If you don\'t like the road you\'re walking, start paving another one.</string>
+    <string name="lifequotestwo">The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.</string>
+    <string name="lifequotesthree">Life is a series of baby steps.</string>
+    <string name="lifequotesfour">Don\'t give it five minutes if you\'re not going to give it five years.</string>
+    <string name="lifequotesfive">What comes easy won’t last long, and what lasts long won’t come easy.</string>
+    <string name="lifequotessix">Life is what happens when you’re busy making other plans.</string>
+    <string name="lifequotesseven">Many of life’s failures are people who did not realize how close they were to success when they gave u</string>
+    <string name="lifequoteseight">If you want to live a happy life, tie it to a goal, not to people or things.</string>
+    <string name="lifequotesnine">Money and success don’t change people; they merely amplify what is already there.</string>
+    <string name="lifequotesten">Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking</string>
+
+    <string name="categoryLifeTips">Life tips Tweets</string>
+    <string name="lifetipsone">Not how long, but how well you have lived is the main thing.</string>
+    <string name="lifetipstwo">The whole secret of a successful life is to find out what is one’s destiny to do, and then do it.</string>
+    <string name="lifetipsthree">The big lesson in life, baby, is never be scared of anyone or anything.</string>
+    <string name="lifetipsfour">Curiosity about life in all of its aspects, I think, is still the secret of great creative people.</string>
+    <string name="lifetipsfive">Life is not a problem to be solved, but a reality to be experienced</string>
+    <string name="lifetipssix">Do all the good you can, for all the people you can, in all the ways you can, as long as you can.</string>
+    <string name="lifetipsseven">Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through this.</string>
+    <string name="lifetipseight">Life is like riding a bicycle. To keep your balance, you must keep moving</string>
+    <string name="lifetipsnine">Watch your thoughts; they become words. Watch your words; they become actions. Watch your actions; they become habits. Watch your habits; they become character. Watch your character; it becomes your destiny.</string>
+    <string name="lifetipsten">When we do the best we can, we never know what miracle is wrought in our life or the life of another</string>
+
+
+    <string name="categoryLogicQuestions">Logic question Tweets</string>
+    <string name="logicquestionsone">A little girl kicks a soccer ball. It goes 10 feet and comes back to her. How is this possible? (Ever heard of gravity? She kicked it up.)</string>
+    <string name="logicquestionstwo">A 10 foot rope ladder hangs over the side of a boat with the bottom rung on the surface of the water. The rungs are one foot apart, and the tide goes up at the rate of 6 inches per hour. How long will it be until three rungs are covered?(Never. The boat rises as the tide goes up.)</string>
+    <string name="logicquestionsthree">A is the father of B. But B is not the son of A. How’s that possible? (B is the daughter you MCP’s!)</string>
+    <string name="logicquestionsfour">A man dressed in all black is walking down a country lane. Suddenly, a large black car without any lights on comes round the corner and screeches to a halt. How did the car know he was there? (It was day time.)</string>
+    <string name="logicquestionsfive">A rooster laid an egg on top of the barn roof. Which way did it roll? (It didn’t roll – since when did roosters start laying eggs?)</string>
+    <string name="logicquestionssix">A truck driver is going down a one way street the wrong way, and passes at least ten cops. Why is he not caught? (Because he was not driving! He’s walking on the sidewalk.)</string>
+    <string name="logicquestionsseven">How can a man go eight days without sleep? (By sleeping during the night time)</string>
+    <string name="logicquestionseight">How much dirt is there in a hole 3 feet deep, 6 ft long and 4 ft wide? (None, or else it wouldn’t be a hole. )</string>
+    <string name="logicquestionsnine">How can you lift an elephant with one hand? (It is not a problem, since you will never find an elephant with one hand.)</string>
+    <string name="logicquestionsten">If it took eight men ten hours to build a wall,how long would it take four men to build it? (No time at all it is already built.)</string>
+
+    <string name="categoryMotivational">Motivational Tweets</string>
+    <string name="motivationalone">Don’t downgrade your dream just to fit your reality, upgrade your conviction to match your destiny.</string>
+    <string name="motivationaltwo">You are braver than you believe, stronger than you seem and smarter than you think.</string>
+    <string name="motivationalthree">You are confined only by the walls you build yourself.</string>
+    <string name="motivationalfour">If people are doubting how far you can go, go so far that you can’t hear them anymore.</string>
+    <string name="motivationalfive">We need to accept that we won’t always make the right decisions, that we’ll screw up royally sometimes – understanding that failure is not the opposite of success, it’s part of success.</string>
+    <string name="motivationalsix">Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.</string>
+    <string name="motivationalseven">The best time to plant a tree was 20 years ago. The second best time is now.</string>
+    <string name="motivationaleight">Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.</string>
+    <string name="motivationalnine">You’ve gotta dance like there’s nobody watching, love like you’ll never be hurt, sing like there’s nobody listening, and live like it’s heaven on earth.</string>
+    <string name="motivationalten">Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers.</string>
+
+    <string name="categoryPuns">Puns Tweets</string>
+    <string name="punsone">Light travels faster than sound. That\'s why some people appear bright until you hear them speak.</string>
+    <string name="punstwo">Why did Adele cross the road? To say hello from the other side.</string>
+    <string name="punsthree">I want to be cremated as it is my last hope for a smoking hot body.</string>
+    <string name="punsfour"> What kind of concert only costs 45 cents? A 50 Cent concert featuring Nickelback.</string>
+    <string name="punsfive">A crazy wife says to her husband that moose are falling from the sky. The husband says, it’s reindeer.</string>
+    <string name="punssix"> Ladies, if he can’t appreciate your fruit jokes, you need to let that mango</string>
+    <string name="punsseven">Geology rocks but Geography is where it’s at!</string>
+    <string name="punseight">What was Forrest Gump’s email password? 1forrest1</string>
+    <string name="punsnine"> Did you hear about the restaurant on the moon? I heard the food was good but it had no atmosphere.</string>
+    <string name="punsten"> I don’t trust stairs because they’re always up to something.</string>
+
+    <string name="categoryRhetoricQuestions">Rhetorical Questions Tweets</string>
+    <string name="rhetoricquestionsone">Why is an alarm clock going “off” when it actually turns on?</string>
+    <string name="rhetoricquestionstwo">What happened to Old Zealand?</string>
+    <string name="rhetoricquestionsthree">If an ambulance is on its way to save someone, and it runs someone over, does it stop to help them?</string>
+    <string name="rhetoricquestionsfour">Can you buy an entire chess set in a pawn shop?</string>
+    <string name="rhetoricquestionsfive">Why is it called a “drive through” if you have to stop?</string>
+    <string name="rhetoricquestionssix">Why does mineral water that has “trickled through mountains for centuries” go out of date next year?</string>
+    <string name="rhetoricquestionsseven">Do the minutes on the movie boxes include the previews, credits, and special features, or just the movie itself?</string>
+    <string name="rhetoricquestionseight">Why is an electrical outlet called an outlet when you plug things into it? Shouldn’t it be called an inlet</string>
+    <string name="rhetoricquestionsnine">Why do most cars have speedometers that go up to at least when you legally can’t go that fast on any road?</string>
+    <string name="rhetoricquestionsten">Why do they call it taking a dump? Shouldn’t it be leaving a dump?</string>
+
+    <string name="categorySmart">Smart Tweets</string>
+    <string name="smartone">If a man says to you, “I always lie”, do you believe him?</string>
+    <string name="smarttwo">No woman is ugly, it’s just that some are more beautiful than others.</string>
+    <string name="smartthree">P13453 d0nt r34d th15 1f y0u 4r3 4 r0b0t c4u53 1t c4n 5tr41n y0u4 3y35.</string>
+    <string name="smartfour">You don’t know what you don’t know until you know it.</string>
+    <string name="smartfive">Don’t paint a wall with a toothbrush simply because it’s called a brush.</string>
+    <string name="smartsix">The cleverest of all, in my opinion, is the man who calls himself a fool at least once a month.</string>
+    <string name="smartseven">A miser is a person who is reluctant to spend and saves for those who will bury him.</string>
+    <string name="smarteight">If it weren’t for Mondays, we’d all hate Tuesdays.</string>
+    <string name="smartnine">Yesterday I was clever, so I wanted to change the world. Today I am wise, so i am changing myself.</string>
+    <string name="smartten">Sometimes you need to act like a fool to fool the fools who think that they are fooling you.</string>
+
+    <string name="categoryWise">Wise Tweets</string>
+    <string name="wiseone">Change is the law of life. And those who look only to the past or present are certain to miss the future.</string>
+    <string name="wisetwo">When life is too easy for us, we must beware or we may not be ready to meet the blows which sooner or later come to everyone, rich or poor</string>
+    <string name="wisethree">God gave us the gift of life; it is up to us to give ourselves the gift of living well.</string>
+    <string name="wisefour">You can disagree without saying anything. Not needing to win trivial arguments saves you time, energy, and friends.</string>
+    <string name="wisefive">If you’re feeling helpless, help someone.</string>
+    <string name="wisesix">Things that matter most must never be at the mercy of things that matter least.</string>
+    <string name="wiseseven">Man thinks he knows the minds of others when he hardly knows his own.</string>
+    <string name="wiseeight">I’d rather be strong and happy than be what society thinks is thin and perfect and be miserable.</string>
+    <string name="wisenine">Leader follows his ideology, Leader does not follow his relatives and friends.</string>
+    <string name="wiseten">Work hard, but make time for who you love, family and friends. Nobody remembers powerpoint presentations on your final day</string>
+
+
+    <string name="Memes">Memes</string>
+    <string name="Cities">Cities</string>
+    <string name="Art">Art</string>
+    <string name="FamousPaintings">Famous Paintings</string>
+    <string name="Anime">Anime</string>
+    <string name="Cute">Cute Images</string>
+    <string name="MotivationalImages">Motivational</string>
+    <string name="PopularCartoons">Popular Cartoons</string>
+    <string name="ClassicCars">Classic Cars</string>
+    <string name="FamousArtists">Famous Artists</string>
+    <string name="FamousMusicians">Famous Musicians</string>
+    <string name="Wildlife">Wildlife</string>
+    <string name="Nature">Nature</string>
+    <string name="Str90sBands">90s Bands</string>
+    <string name="PopularBands">Popular Bands</string>
+    <string name="PopularVinyls">Popular Vinyls</string>
+    <string name="RealWorldHeroes">Real World Heroes</string>
+    <string name="Superheroes">Superheroes</string>
+    <string name="FamousSitcomJokes">Famous Sitcom Jokes</string>
+    <string name="Abstract">Abstract</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_details">Daily Tweets is meant to help you find ideas of what to tweet to your twitter followers when you have no content in mind.Enjoy the tweet ideas and remember to leave us a rating and review. For more information or suggestions, email us at Bultechbusiness@gmail.com</string>
+    <string name="daily_tweets_version_1_5_0">DAILY TWEETS VERSION:1.5.0</string>
+    <string name="_2020">2020</string>
+    <string name="bultech">BULTECH</string>
+    <string name="dev_details">Bultech strives to create quality apps for a quality audience. We are grateful for your support and please be sure to check out more of our apps by clicking on the menu and clicking on more apps.Reach us at Bultechbusiness@gmail.com for more information</string>
+
+<string name="fbbanner">1218279418613364_1218279788613327</string>
+    <string name="fbinter">1218279418613364_1218280025279970</string>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="3dp"
+    app:cardBackgroundColor="@color/colorPrimary"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary">
+    <LinearLayout
+        android:id="@+id/vidContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/titlevideo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"/>
+
+
+<FrameLayout
+    android:background="@color/colorPrimary"
+    android:id="@+id/videoContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_gravity="center"
+        android:foregroundGravity="center"
+        />
+    <ImageView
+        android:id="@+id/playBtn"
+        android:src="@drawable/ic_action_play"
+        android:layout_gravity="center"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:visibility="gone"/>
+
+
+</FrameLayout>
+        <!--<com.google.android.exoplayer2.ui.PlayerView
+            android:id="@+id/playerView"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            app:resize_mode="fit"
+            android:layout_gravity="center"/>-->
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:id="@+id/shareCont"
+        android:layout_below="@id/vidContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/shareVid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_action_share"
+            android:layout_weight="1"/>
+        <ImageView
+            android:id="@+id/tweetVid"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/twitterimg"
+            android:layout_weight="1"/>
+        <ImageView
+            android:id="@+id/downloadVid"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_action_download"
+            android:layout_weight="1"/>
+    </LinearLayout>
+</RelativeLayout>
+    <View
+        android:background="@drawable/background_video"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</androidx.cardview.widget.CardView>

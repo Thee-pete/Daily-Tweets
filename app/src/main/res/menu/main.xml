@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_open_twitter"
+        android:icon="@drawable/twitternav"
+        android:title="@string/open_twitter" />
+    <item
+        android:id="@+id/nav_rate"
+        android:icon="@drawable/ic_action_rate"
+        android:title="@string/rate_app" />
+    <item
+        android:id="@+id/nav_more"
+        android:icon="@drawable/ic_action_apps"
+        android:title="@string/more_apps" />
+</menu>

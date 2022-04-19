@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.apps.bultech.newdailytweets.fragments.textTweetsFragment"
+        android:label="@string/text_tweets"
+        tools:layout="@layout/fragment_text_tweets" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.apps.bultech.newdailytweets.fragments.ImageTweetsFragment"
+        android:label="@string/image_tweets"
+        tools:layout="@layout/fragment_image_tweets" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.apps.bultech.newdailytweets.fragments.VideoTweetsFragment"
+        android:label="@string/video_tweets"
+        tools:layout="@layout/fragment_video_tweets" />
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.apps.bultech.newdailytweets.fragments.AboutFragment"
+        android:label="@string/about"
+        tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/nav_developer"
+        android:name="com.apps.bultech.newdailytweets.fragments.DeveloperFragment"
+        android:label="@string/developers"
+        tools:layout="@layout/fragment_developer" />
+</navigation>
